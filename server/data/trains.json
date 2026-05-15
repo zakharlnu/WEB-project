@@ -1,0 +1,50 @@
+[
+  {
+    "id": "1",
+    "trainNumber": "741К",
+    "fromCity": "Київ",
+    "toCity": "Львів",
+    "departure": "2026-04-10T07:10:00",
+    "durationMinutes": 325
+  },
+  {
+    "id": "2",
+    "trainNumber": "715К",
+    "fromCity": "Київ",
+    "toCity": "Перемишль",
+    "departure": "2026-04-10T06:42:00",
+    "durationMinutes": 470
+  },
+  {
+    "id": "3",
+    "trainNumber": "105К",
+    "fromCity": "Київ",
+    "toCity": "Одеса",
+    "departure": "2026-04-10T21:05:00",
+    "durationMinutes": 455
+  },
+  {
+    "id": "4",
+    "trainNumber": "722Л",
+    "fromCity": "Львів",
+    "toCity": "Київ",
+    "departure": "2026-04-10T17:30:00",
+    "durationMinutes": 325
+  },
+  {
+    "id": "5",
+    "trainNumber": "12Л",
+    "fromCity": "Львів",
+    "toCity": "Ужгород",
+    "departure": "2026-04-10T08:15:00",
+    "durationMinutes": 250
+  },
+  {
+    "id": "6",
+    "trainNumber": "91Д",
+    "fromCity": "Харків",
+    "toCity": "Київ",
+    "departure": "2026-04-10T13:40:00",
+    "durationMinutes": 300
+  }
+]
